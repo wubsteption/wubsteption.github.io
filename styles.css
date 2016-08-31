@@ -1,5 +1,11 @@
 body {
     text-align: center;
     text-decoration: bold;
-    
+    background-image: url('http://67.media.tumblr.com/c53e6700e566a7682665701067e1b940/tumblr_nidyp4nUSA1rgec84o1_1280.gif');
+    background-repeat:repeat;
+    background-size: 20% auto;
+}
+p{
+    font-size:10vmin;
+    color:white;
 }
